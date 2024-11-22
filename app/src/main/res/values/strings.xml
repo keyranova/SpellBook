@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SpellBook</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="spell_book">Spell Book</string>
+    <string name="voice_search">Voice Search</string>
+    <string name="search_results">Search Results</string>
+    <string name="clear_results">Clear Results</string>
+    <string name="favorites">Favorites</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="tile_label">Example tile</string>
+    <string name="complication_label">Example complication</string>
+</resources>
