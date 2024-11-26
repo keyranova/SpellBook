@@ -6,22 +6,21 @@
         android:height="48dp"
         android:gravity="center">
         <shape android:shape="oval">
-            <solid android:color="#FFFFFF" />
+            <solid android:color="#F0A0FD" />
         </shape>
     </item>
     <item
-        android:width="40dp"
-        android:height="40dp"
+        android:width="30dp"
+        android:height="30dp"
         android:gravity="center">
         <vector
-            android:width="24dp"
-            android:height="24dp"
-            android:tint="#000000"
-            android:viewportWidth="24"
-            android:viewportHeight="24">
+            android:width="108dp"
+            android:height="108dp"
+            android:viewportWidth="960"
+            android:viewportHeight="960">
             <path
                 android:fillColor="#FF000000"
-                android:pathData="M17.6,11.48 L19.44,8.3a0.63,0.63 0,0 0,-1.09 -0.63l-1.88,3.24a11.43,11.43 0,0 0,-8.94 0L5.65,7.67a0.63,0.63 0,0 0,-1.09 0.63L6.4,11.48A10.81,10.81 0,0 0,1 20L23,20A10.81,10.81 0,0 0,17.6 11.48ZM7,17.25A1.25,1.25 0,1 1,8.25 16,1.25 1.25,0 0,1 7,17.25ZM17,17.25A1.25,1.25 0,1 1,18.25 16,1.25 1.25,0 0,1 17,17.25Z" />
+                android:pathData="M762,864 L645,748l-88,88 -28,-28q-23,-23 -23,-57t23,-57l169,-169q23,-23 57,-23t57,23l28,28 -88,88 116,117q12,12 12,28t-12,28l-50,50q-12,12 -28,12t-28,-12m118,-628L426,690l5,4q23,23 23,57t-23,57l-28,28 -88,-88L198,864q-12,12 -28,12t-28,-12l-50,-50q-12,-12 -12,-28t12,-28l116,-117 -88,-88 28,-28q23,-23 57,-23t57,23l4,5 454,-454h160zM334,377l24,-23 23,-24 -23,24zM278,434L80,236v-160h160l198,198 -57,56 -174,-174h-47v47l174,174zM370,633 L800,203v-47h-47L323,586zM370,633 L346,610 323,586 346,610z"/>
         </vector>
     </item>
 </layer-list>
