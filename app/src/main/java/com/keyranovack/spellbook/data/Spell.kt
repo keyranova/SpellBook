@@ -6,7 +6,7 @@ data class Spell(
     val classes: List<External>,
     val components: List<String>,
     val concentration: Boolean,
-    val damage: Damage,
+    val damage: Damage?,
     val desc: List<String>,
     val duration: String,
     val higher_level: List<String>,
